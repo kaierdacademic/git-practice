@@ -137,7 +137,7 @@ git branch -d experiment       # delete the merged branch
 
 Conflicts happen when two branches change the same line. Practice on this line:
 
-> Favorite organism: CHANGE ME
+> Favorite organism: zebrafish
 
 ```bash
 git switch -c branch-a
