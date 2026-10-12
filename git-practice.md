@@ -41,7 +41,7 @@ git log --oneline
 
 Change the line below to describe your current project, then save:
 
-> My current project: CHANGE ME
+> My current project: CHANGE ME now
 
 ```bash
 git status            # file shows as "modified"
